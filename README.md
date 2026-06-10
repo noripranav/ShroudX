@@ -17,12 +17,6 @@ It supports multiple data-hiding methods:
 
 The goal of the project is to ensure secure information sharing without relying on third-party storage or cloud services, while maintaining ease of use and accessibility.
 
----
-
-## 🎥 Demo Video
-
-Watch the full demo of the project here:  
-🎬 [ShroudX Demo Video](https://youtu.be/Oz_9VraoEec)
 
 ---
 
@@ -56,27 +50,3 @@ Planned future enhancements include:
 - Improved UI/UX and cross-platform deployment options.
 
 ---
-
-## 👨‍🏫 Acknowledgements
-
-We would like to express our gratitude to **Prof. Romi Banerjee** for her guidance throughout the course project, and to our mentor **Bikram** for his support, feedback, and encouragement during weekly evaluations.  
-Their insights played a key role in shaping the direction and quality of **ShroudX**.
-
----
-
-## 👥 Team Members
-
-| Name | Contribution |
-|------|---------------|
-| **Manideep Kodakandla** | Image-in-Image Module |
-| **Jandhyam Sai Sriya** | Text-in-Image Module, UI Development |
-| **Jyothsna Vadlamudi** | Text-in-Image Module |
-| **Vivekananda Mudelli** | Image-in-Image Module |
-| **Pradeepika Nori** | Text-in-Text Module (4 different algorithms), UI & Testing |
-
----
-
-### 🧾 License
-
-This project was developed as part of an academic course.  
-All contributors share equal ownership rights under an open academic license.
